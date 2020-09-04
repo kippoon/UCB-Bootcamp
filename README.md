@@ -3,6 +3,8 @@
 
 ### Current Unit: [Cybersecurity 101](./Units/01-Cybersecurity-101)
 
+### Current Homework: [Cybersecurity 101](./HW/01-Cybersecurity-101)
+
 ### Homework Guidelines and other info
 - Please mark yourself *Present* on Boot Camp Spot at the start of class every class.
 - Homework will be released on the second day of a Unit, and will be due at midnight on the last day of the following unit. E.g. HW 1 will be released on Sept 3 and due on Sept 15, the final day of Unit 2.
