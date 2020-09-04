@@ -10,7 +10,7 @@ Throughout the week, we looked at maps and visualizations to get a taste of the 
 
 - This assignment is report-heavy, but know that research and reporting are massively important to the work of a cybersecurity professional. 
 
-- In addition to the reports, there are two worksheets that you will fill out while reading through the papers. These should guide what you pay attention to while reading the reports, and should help you understand the research. 
+- In addition to the reports, there are three worksheets that you will fill out while reading through the papers. These should guide what you pay attention to while reading the reports, and should help you understand the research. 
 
 ### Instructions
 
