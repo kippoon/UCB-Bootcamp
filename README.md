@@ -14,7 +14,7 @@
 ## All Modules
 | | | |
 |:---:|:---:|:---:|
-| [Cybersecurity 101](./Units/01-Cybersecurity-101)--[Day 1](./Units/01-Cybersecurity-101/1)-[Day 2](./Units/01-Cybersecurity-101/2) | | |
+| [Cybersecurity 101](./Units/01-Cybersecurity-101)--[Day 1](./Units/01-Cybersecurity-101/1)-[Day 2](./Units/01-Cybersecurity-101/2)-[Day 3](./Units/01-Cybersecurity-101/3) | | |
 
 
 
