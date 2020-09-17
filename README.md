@@ -1,9 +1,9 @@
 # Welcome to UC Berkeley Cybersecurity Bootcamp
 ## September 2020
 
-### Current Unit: [GRC](./Units/02-GRC)
+### Current Unit: [Terminal and Bash](./Units/03-Terminal-and-Bash)
 
-### Current Homework: [Cybersecurity 101](./HW/01-Cybersecurity-101)
+### Current Homework: [GRC](./HW/02-GRC)
 
 ### Homework Guidelines and other info
 - Please mark yourself *Present* on Boot Camp Spot at the start of class every class.
@@ -14,5 +14,5 @@
 ## All Modules
 | | | |
 |:---:|:---:|:---:|
-| [Cybersecurity 101](./Units/01-Cybersecurity-101)--[Day 1](./Units/01-Cybersecurity-101/1)-[Day 2](./Units/01-Cybersecurity-101/2)-[Day 3](./Units/01-Cybersecurity-101/3) | [GRC](./Units/02-GRC)--[Day 1](./Units/02-GRC/1)-[Day 2](./Units/02-GRC/2)-[Day 3](./Units/02-GRC/3) | |
+| [Cybersecurity 101](./Units/01-Cybersecurity-101)--[Day 1](./Units/01-Cybersecurity-101/1)-[Day 2](./Units/01-Cybersecurity-101/2)-[Day 3](./Units/01-Cybersecurity-101/3) | [GRC](./Units/02-GRC)--[Day 1](./Units/02-GRC/1)-[Day 2](./Units/02-GRC/2)-[Day 3](./Units/02-GRC/3) | [Terminal and Bash](./Units/03-Terminal-and-Bash)-[1](./Units/03-Terminal-and-Bash/1) |
 
