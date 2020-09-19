@@ -172,6 +172,7 @@ Complete the following tasks:
   - Shell script(s)
 
 - Compress the `Player_Dealer_Correlation` folder to a zip file and submit it.
+- Also submit a screenshot of command `ls -R` run from the `Lucky_Duck_Investigations` directory.
 
 ---
 
