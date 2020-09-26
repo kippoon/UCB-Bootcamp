@@ -15,5 +15,5 @@
 | | | |
 |:---:|:---:|:---:|
 | [Cybersecurity 101](./Units/01-Cybersecurity-101) -- [Day 1](./Units/01-Cybersecurity-101/1) - [Day 2](./Units/01-Cybersecurity-101/2) - [Day 3](./Units/01-Cybersecurity-101/3) | [GRC](./Units/02-GRC) -- [Day 1](./Units/02-GRC/1) - [Day 2](./Units/02-GRC/2) - [Day 3](./Units/02-GRC/3) | [Terminal and Bash](./Units/03-Terminal-and-Bash) - [Day 1](./Units/03-Terminal-and-Bash/1) - [Day 2](./Units/03-Terminal-and-Bash/2) - [Day 3](./Units/03-Terminal-and-Bash/3) |
-| [Linux 101](./Units/04-Linux-SysAdmin-Fundamentals) -- [Day 1](./Units/04-Linux-SysAdmin-Fundamentals/1) | | |
+| [Linux 101](./Units/04-Linux-SysAdmin-Fundamentals) -- [Day 1](./Units/04-Linux-SysAdmin-Fundamentals/1) - [Day 2](./Units/04-Linux-SysAdmin-Fundamentals/2) | | |
 
