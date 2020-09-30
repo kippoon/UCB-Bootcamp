@@ -3,7 +3,7 @@
 
 ### Current Unit: [Linux 101](./Units/04-Linux-SysAdmin-Fundamentals)
 
-### Current Homework: [Terminal and Bash](./HW/03-Terminal)
+### Current Homework: [Linux Sysadmin Fundamentals](./HW/04-Linux-SysAdmin-Fundamentals)
 
 ### Homework Guidelines and other info
 - Please mark yourself *Present* on Boot Camp Spot at the start of class every class.
