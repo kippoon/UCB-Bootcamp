@@ -1,7 +1,7 @@
 # Welcome to UC Berkeley Cybersecurity Bootcamp
 ## September 2020
 
-### Current Unit: [Linux 101](./Units/04-Linux-SysAdmin-Fundamentals)
+### Current Unit: [Linux Archiving and Logging](./Units/05-Archiving-and-Logging-Data)
 
 ### Current Homework: [Linux Sysadmin Fundamentals](./HW/04-Linux-SysAdmin-Fundamentals)
 
@@ -15,5 +15,5 @@
 | | | |
 |:---:|:---:|:---:|
 | [Cybersecurity 101](./Units/01-Cybersecurity-101) -- [Day 1](./Units/01-Cybersecurity-101/1) - [Day 2](./Units/01-Cybersecurity-101/2) - [Day 3](./Units/01-Cybersecurity-101/3) | [GRC](./Units/02-GRC) -- [Day 1](./Units/02-GRC/1) - [Day 2](./Units/02-GRC/2) - [Day 3](./Units/02-GRC/3) | [Terminal and Bash](./Units/03-Terminal-and-Bash) - [Day 1](./Units/03-Terminal-and-Bash/1) - [Day 2](./Units/03-Terminal-and-Bash/2) - [Day 3](./Units/03-Terminal-and-Bash/3) |
-| [Linux 101](./Units/04-Linux-SysAdmin-Fundamentals) -- [Day 1](./Units/04-Linux-SysAdmin-Fundamentals/1) - [Day 2](./Units/04-Linux-SysAdmin-Fundamentals/2) - [Day 3](./Units/04-Linux-SysAdmin-Fundamentals/3) | | |
+| [Linux 101](./Units/04-Linux-SysAdmin-Fundamentals) -- [Day 1](./Units/04-Linux-SysAdmin-Fundamentals/1) - [Day 2](./Units/04-Linux-SysAdmin-Fundamentals/2) - [Day 3](./Units/04-Linux-SysAdmin-Fundamentals/3) | [Linux Archiving and Logging](./Units/05-Archiving-and-Logging-Data) -- [Day 1](./Units/05-Archiving-and-Logging-Data/1) | |
 
