@@ -1,7 +1,7 @@
 # Welcome to UC Berkeley Cybersecurity Bootcamp
 ## September 2020
 
-### Current Unit: [Networking Fundamentals](./Units/08-Networking-Fundamentals/)
+### Current Unit: [Networking Fundamentals II](./Units/09-Networking-Fundamentals-II-and-CTF-Review/)
 
 ### Current Homework: [Windows Administration and Hardening](./HW/07-Windows-Administration-and-Hardening/)
 
