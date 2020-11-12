@@ -1,9 +1,9 @@
 # Welcome to UC Berkeley Cybersecurity Bootcamp
 ## September 2020
 
-### Current Unit: [Cryptography](./Units/10-Cryptography/)
+### Current Unit: [Network Security](./Units/11-Network-Security/)
 
-### Current Homework: [Networking Fundamentals II](./HW/09-Networking-Fundamentals-II-and-CTF-Review/)
+### Current Homework: [Cryptography](./HW/10-Cryptography)
 
 ### Homework Guidelines and other info
 - Please mark yourself *Present* on Boot Camp Spot at the start of class every class.
@@ -17,4 +17,4 @@
 | [Cybersecurity 101](./Units/01-Cybersecurity-101) -- [Day 1](./Units/01-Cybersecurity-101/1) - [Day 2](./Units/01-Cybersecurity-101/2) - [Day 3](./Units/01-Cybersecurity-101/3) | [GRC](./Units/02-GRC) -- [Day 1](./Units/02-GRC/1) - [Day 2](./Units/02-GRC/2) - [Day 3](./Units/02-GRC/3) | [Terminal and Bash](./Units/03-Terminal-and-Bash) - [Day 1](./Units/03-Terminal-and-Bash/1) - [Day 2](./Units/03-Terminal-and-Bash/2) - [Day 3](./Units/03-Terminal-and-Bash/3) |
 | [Linux 101](./Units/04-Linux-SysAdmin-Fundamentals) -- [Day 1](./Units/04-Linux-SysAdmin-Fundamentals/1) - [Day 2](./Units/04-Linux-SysAdmin-Fundamentals/2) - [Day 3](./Units/04-Linux-SysAdmin-Fundamentals/3) | [Linux Archiving and Logging](./Units/05-Archiving-and-Logging-Data) -- [Day 1](./Units/05-Archiving-and-Logging-Data/1) - [Day 2](./Units/05-Archiving-and-Logging-Data/2) - [Day 3](./Units/05-Archiving-and-Logging-Data/3) | [Bash Scripting and Programming](./Units/06-Bash-Scripting-and-Programming) -- [Day 1](./Units/06-Bash-Scripting-and-Programming/1) - [Day 2](./Units/06-Bash-Scripting-and-Programming/2) - [Day 3](./Units/06-Bash-Scripting-and-Programming/3) |
 | [Windows Administration and Hardening](./Units/07-Windows-Administration-and-Hardening/) -- [Day 1](./Units/07-Windows-Administration-and-Hardening/1) - [Day 2](./Units/07-Windows-Administration-and-Hardening/2) - [Day 3](./Units/07-Windows-Administration-and-Hardening/3) | [Networking Fundamentals](./Units/08-Networking-Fundamentals/) -- [Day 1](./Units/08-Networking-Fundamentals/1) - [Day 2](./Units/08-Networking-Fundamentals/2) - [Day 3](./Units/08-Networking-Fundamentals/3) |  [Networking Fundamentals II](./Units/09-Networking-Fundamentals-II-and-CTF-Review/) -- [Day 1](./Units/09-Networking-Fundamentals-II-and-CTF-Review/1) - [Day 2](./Units/09-Networking-Fundamentals-II-and-CTF-Review/2) - [Day 3](./Units/09-Networking-Fundamentals-II-and-CTF-Review/3) |
-| [Cryptography](./Units/10-Cryptography) -- [Day 1](./Units/10-Cryptography/1) - [Day 2](./Units/10-Cryptography/2) - [Day 3](./Units/10-Cryptography/3) | | |
+| [Cryptography](./Units/10-Cryptography) -- [Day 1](./Units/10-Cryptography/1) - [Day 2](./Units/10-Cryptography/2) - [Day 3](./Units/10-Cryptography/3) | [Network Security](./Units/11-Network-Security) -- [Day 1](./Units/11-Network-Security/1) | |
