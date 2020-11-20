@@ -1,9 +1,9 @@
 # Welcome to UC Berkeley Cybersecurity Bootcamp
 ## September 2020
 
-### Current Unit: [Network Security](./Units/11-Network-Security/)
+### Current Unit: [Cloud Security](./Units/12-Cloud-Security/)
 
-### Current Homework: [Cryptography](./HW/10-Cryptography)
+### Current Homework: [Network Security](./HW/11-Network-Security)
 
 ### Homework Guidelines and other info
 - Please mark yourself *Present* on Boot Camp Spot at the start of class every class.
