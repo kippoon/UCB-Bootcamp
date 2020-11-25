@@ -244,7 +244,7 @@ See all of the pip module options [HERE](https://docs.ansible.com/ansible/latest
 
 #### Ansible docker-container
 
-The `docker-container` module can be used to download and manage Docker containers. 
+The `docker_container` module can be used to download and manage Docker containers. 
 
 Here we are downloading the container `cyberxsecurity/dvwa`, staring the container, and forwarding the host port 80 to the container port 80
 
@@ -257,4 +257,4 @@ Here we are downloading the container `cyberxsecurity/dvwa`, staring the contain
       published_ports: 80:80
 ```
 
-To see all of the `docker-container` module options, click [HERE](https://docs.ansible.com/ansible/latest/modules/docker_container_module.html)
+To see all of the `docker_container` module options, click [HERE](https://docs.ansible.com/ansible/latest/modules/docker_container_module.html)
