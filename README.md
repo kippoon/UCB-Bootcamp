@@ -3,7 +3,7 @@
 
 ### Current Unit: [Cloud Project](./Units/13-Elk-Stack-Project/)
 
-### Current Homework: [Network Security](./HW/12-Cloud-Security)
+### Current Homework: [Cloud Security](./HW/12-Cloud-Security)
 
 ### Homework Guidelines and other info
 - Please mark yourself *Present* on Boot Camp Spot at the start of class every class.
