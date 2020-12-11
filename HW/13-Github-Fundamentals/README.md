@@ -95,6 +95,18 @@ The topics covered in this homework assignment are:
      
 Check your repo for any errors or typos. You now have a GitHub repository that is ready to present and share with the world.
     
+
+### Deliverable
+Submit a text document with a link to your github repository. The repo must contain:
+
+- An overall readme with a short description of the overall purpose and each section of the repo
+- Files and diagrams from the Cloud and ELK project weeks, including:
+  - The readme constructed on ELK project day 4.
+  - Diagrams of both the base cloud stack and the ELK project.
+  - Config files and playbooks used to create your infrastructure.
+- Bash scripts from Linux homeworks.
+
+Your repo may also contain any other documents or activites that you have produced through this course that you think demonstrate an important skill you have learned in this course. Remember that this is your chance to show off a little!
 --- 
 © 2020 Trilogy Education Services, a 2U, Inc. brand. All Rights Reserved.
 
