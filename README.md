@@ -3,7 +3,7 @@
 
 ### Current Unit: [Penetration Testing](./Units/16-Penetration-Testing)
 
-### Current Homework: [ELK Stack/Cloud Project](./HW/13-Github-Fundamentals) AND [Web Development](./HW/14-Web-Development)
+### Current Homework: [Web Vulns and Hardening](./HW/15-Web-Vulnerabilities-and-Hardening)
 
 ### Homework Guidelines and other info
 - Please mark yourself *Present* on Boot Camp Spot at the start of class every class.
@@ -19,4 +19,4 @@
 | [Windows Administration and Hardening](./Units/07-Windows-Administration-and-Hardening/) -- [Day 1](./Units/07-Windows-Administration-and-Hardening/1) - [Day 2](./Units/07-Windows-Administration-and-Hardening/2) - [Day 3](./Units/07-Windows-Administration-and-Hardening/3) | [Networking Fundamentals](./Units/08-Networking-Fundamentals/) -- [Day 1](./Units/08-Networking-Fundamentals/1) - [Day 2](./Units/08-Networking-Fundamentals/2) - [Day 3](./Units/08-Networking-Fundamentals/3) |  [Networking Fundamentals II](./Units/09-Networking-Fundamentals-II-and-CTF-Review/) -- [Day 1](./Units/09-Networking-Fundamentals-II-and-CTF-Review/1) - [Day 2](./Units/09-Networking-Fundamentals-II-and-CTF-Review/2) - [Day 3](./Units/09-Networking-Fundamentals-II-and-CTF-Review/3) |
 | [Cryptography](./Units/10-Cryptography) -- [Day 1](./Units/10-Cryptography/1) - [Day 2](./Units/10-Cryptography/2) - [Day 3](./Units/10-Cryptography/3) | [Network Security](./Units/11-Network-Security) -- [Day 1](./Units/11-Network-Security/1) - [Day 2](./Units/11-Network-Security/2) - [Day 3](./Units/11-Network-Security/3) | [Cloud Security](./Units/12-Cloud-Security) -- [Day 1](./Units/12-Cloud-Security/1) - [Day 2](./Units/12-Cloud-Security/2) - [Day 3](./Units/12-Cloud-Security/3) - [Day 4](./Units/12-Cloud-Security/4) |
 | [Project 1 - Elk Stack](./Units/13-Elk-Stack-Project) | [Web Development](./Units/14-Web-Development) -- [Day 1](./Units/14-Web-Development/1) - [Day 2](./Units/14-Web-Development/2) | [Web Vulnerabilities and Hardening](./Units/15-Web-Vulnerabilities-and-Hardening) -- [Day 1](./Units/15-Web-Vulnerabilities-and-Hardening/1) - [Day 2](./Units/15-Web-Vulnerabilities-and-Hardening/2) - [Day 3](./Units/15-Web-Vulnerabilities-and-Hardening/3) |
-| [Penetration Testing](./Units/16-Penetration-Testing) -- [Day 1](./Units/16-Penetration-Testing) | | |
+| [Penetration Testing](./Units/16-Penetration-Testing) -- [Day 1](./Units/16-Penetration-Testing/1) - [Day 2](./Units/16-Penetration-Testing/2) | | |
