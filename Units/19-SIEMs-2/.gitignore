@@ -21,7 +21,7 @@
 #2
 #2/Activities
 #2/Activities/02-Splunk-ES
-2/Activities/02-Splunk-ES/Solved
+#2/Activities/02-Splunk-ES/Solved
 #2/Activities/02-Splunk-ES/Unsolved
 #2/Activities/05-Advanced-Security-Monitoring
 #2/Activities/05-Advanced-Security-Monitoring/Unsolved
@@ -29,8 +29,9 @@
 #2/Activities/09-Splunk-Careers/Unsolved
 #2/Activities/12-Splunk-Certifications
 #2/Activities/12-Splunk-Certifications/Unsolved
-2/Images
-2/StudentGuide.md
+2/Activities/13-Incident-Response-Investigations/Alert_2-Solved
+#2/Images
+#2/StudentGuide.md
 3
 3/Activities
 3/Activities/Part-1
