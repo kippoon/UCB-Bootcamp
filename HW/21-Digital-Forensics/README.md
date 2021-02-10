@@ -60,6 +60,24 @@ You've examined and documented quite a bit of information from the iPhone image 
 
  - Each group should submit one version of the completed Final Case Report document.
 
+ ### Additional information from Aaron
+
+- Your report should follow this format:
+
+```
+  Executive Summary
+   - Premise 
+   - Chain of Custody 
+   - Description of Process 
+   - Case Overview 
+  Narrative & Timeline of Events
+   - Written Narrative (Tell how it happened)
+   - Screen Shots (Evidence)
+   - Captions (What, Where)
+  Analysis & Conclusion 
+   -  Legal Analysis (Discuss Relevant Laws Broken, Penalties)
+   - Conclusion (Who played what part in the story, how might it have affected theories of the events)
+ ```
 ----
 
 ### Bonus Assignment: Russian Tea Room
