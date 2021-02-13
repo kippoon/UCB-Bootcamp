@@ -12,9 +12,16 @@
 #1/Activities/14_PBQ
 #1/Activities/14_PBQ/Solved
 #1/Activities/14_PBQ/Unsolved
-1/Images
-1/Resources
-2
+#1/Images
+#1/Resources
+#2
+#2/Activities
+#2/Activities/00_TCP_Split_Handshake
+#2/Activities/00_TCP_Split_Handshake/Unsolved
+2/Activities/00_TCP_Split_Handshake/Solved
+#2/Activities/00_TCP_Split_Handshake/Resources
 2/Images
+2/StudentGuide.md
+2/"22.2 Security+ .pdf"
 3
 3/Images
