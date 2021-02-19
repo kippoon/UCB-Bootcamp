@@ -88,8 +88,8 @@
 - Suppose you attempt to enumerate users on the website `www.foosports.com`. You're able to send 5 requests upon launching the attack, but stop receiving responses after that. What most likely happened?
   - [ ] The attack failed because the site doesn't have enough users to enumerate.
   - [ ] The target server blocked your IP address.
-  - [ ]
-  - [ ]
+  - [ ] Your scan crashed the target server.
+  - [ ] Your router no longer recognized the target IP address.
 
 - Identify one advantage to an IDLE scan.
   - [ ] They allow an attacker to get information about a target's open ports without actually sending packets.
