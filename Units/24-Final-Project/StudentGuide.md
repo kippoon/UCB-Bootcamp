@@ -61,6 +61,21 @@ On Day 1, you will complete an assessment of Target 1. Those of you who complete
 - [Activity File: Attacking Targets 1 and 2](./Activities/Day-1-and-2/Unsolved/ReadMe.md)
 
 
+## Additional Notes from Aaron
+
+1. Select a persona (FBI, CIA, Consultants, etc. and present from that persona's point of view)
+2. Be unique, your presentation should stand out from your peers in style, graphics, pace etc.
+3. Your presentation should be presented in phases and have members assigned to speak on those phases.
+4. You need to address Raven 1 and Rave2 (targets) as well as the incident response portion.
+5. Organize yourselves, set-up additional meetings outside of class and work cooperatively with your leader (Gene).
+6. Your whole team will share a final grade. Meaning your weakest player will likely decide what grade you get. 
+7. Every team member must speak for 2-3 minutes during the presentation. So practice, practice, practice!
+Team Leaders -- you're in charge and I will hold your responsible for the execution of your team.
+
+As a reminder. Reporting standards will be enforced. Screen shots, Annotation, Technical sanity, format etc.
+
+Good Luck!
+
 ---
 
 © 2020 Trilogy Education Services, a 2U, Inc. brand. All Rights Reserved.  
