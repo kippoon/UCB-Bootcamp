@@ -61,6 +61,15 @@ On Day 1, you will complete an assessment of Target 1. Those of you who complete
 - [Activity File: Attacking Targets 1 and 2](./Activities/Day-1-and-2/Unsolved/ReadMe.md)
 
 
+#### Day 3: Analysis
+
+After assessing the Target 1, you will use the Kali VM to capture and analyze traffic on the virtual network with Wireshark. You will analyze the traffic to explain what users are doing on the network. After analyzing Wireshark traffic, you will spend the remainder of class completing summaries of your work. 
+
+If all of the above is complete, you may complete an assessment of Target 2 and add the results to your presentation. Instructions are available from your instructor once you complete the project.
+
+- [Activity File: Wireshark Strikes Back](Activities/Day-3/Unsolved/ReadMe.md)
+
+
 ## Additional Notes from Aaron
 
 1. Select a persona (FBI, CIA, Consultants, etc. and present from that persona's point of view)
