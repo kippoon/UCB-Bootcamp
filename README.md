@@ -1,7 +1,7 @@
 # Welcome to UC Berkeley Cybersecurity Bootcamp
 ## September 2020
 
-### Current Unit: [Career Prep](Units/23-Career-Prep)
+### Current Unit: [Final Project](Units/24-Final-Project)
 
 ### Current Homework: [Digital Forensics](./HW/21-Digital-Forensics)
 
